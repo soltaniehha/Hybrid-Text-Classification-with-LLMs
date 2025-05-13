@@ -1,10 +1,10 @@
 # Hybrid Text Classification with LLMs
 
-This project implements a hybrid approach to text classification, combining traditional ML with LLMs to classify tweets as literal or sarcastic. The system uses sentence transformers for embeddings, neural networks for classification, and GPT-4 for data validation.
+This project implements a hybrid approach to text classification, combining traditional ML with LLMs to classify tweets as literal or sarcastic. The system uses sentence transformers for embeddings, neural networks for classification, and GPT-4.1 Mini for data validation.
 
 ## Environment Requirements
 
-- Python 3.10 (TensorFlow is not compatible with Python 3.13)
+- Python 3.12 (TensorFlow is not compatible with Python 3.13)
 - Dependencies listed in `requirements.txt`:
   ```
   openai
