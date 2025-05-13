@@ -1,0 +1,15 @@
+openai
+pandas
+nltk
+kaggle
+scikit-learn
+seaborn
+matplotlib
+tqdm
+joblib
+tensorflow
+keras
+sentence-transformers
+transformers
+tf-keras
+umap
