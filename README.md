@@ -71,7 +71,7 @@ The project follows a sequential pipeline:
 
 ### 1. Environment Setup
 ```bash
-conda create -n text_class python=3.10
+conda create -n text_class python=3.12
 conda activate text_class
 pip install -r requirements.txt
 ```
@@ -82,11 +82,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the notebooks in sequence:
-```bash
-jupytext --to notebook *.py
-jupyter notebook
-```
+Run the notebooks in sequence.
 
 ## Dataset
 
